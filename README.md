@@ -276,15 +276,6 @@ psutil==5.9.8
 
 ---
 
-## 9. **Next Step: Start Module 1 (Hotkey + UI)**
-
-**Ready to begin?**  
-If yes, I’ll generate the full code for Module 1, with explanations and best practices.
-
-**Just say:**  
-**Start Module 1 (Hotkey + UI)**
-
-Or let me know if you want to adjust anything in the plan!
 
 ```plaintext
 ai_assistant/
