@@ -81,13 +81,6 @@ python setup.py py2app
 Tauri (Optional UI Framework):
 For future beautiful UI: https://tauri.app — use Rust + TypeScript frontend.
 
-🧑‍💻 How to Use Cursor for This Project
-✅ Install Cursor from https://www.cursor.so
-
-✅ Open the project directory in Cursor
-
-✅ Use built-in terminal to create a virtual environment:
-
 bash
 Copy
 Edit
@@ -100,9 +93,6 @@ Copy
 Edit
 pip install -r requirements.txt
 playwright install
-✅ Use Cursor AI suggestions to build faster
-
-✅ Use Cursor Git tools for version control
 
 🧾 Sample Commands It Can Handle
 “Search iPhone 15 on Flipkart”
